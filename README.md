@@ -16,7 +16,7 @@ This repository contains scripts and data to train a machine learning model to p
 
 ## Dataset
 
-The dataset used in this project consists of voice recordings from individuals. Each instance in the dataset includes various features extracted from these recordings, along with a binary label indicating the presence or absence of Parkinson's disease.
+The dataset used in this project consists of voice recordings from individuals, created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. The original study published the feature extraction methods for general voice disorders. Each instance in the dataset includes various features extracted from these recordings, along with a binary label indicating the presence or absence of Parkinson's disease.
 
 ### Exploratory Data Analysis
 
