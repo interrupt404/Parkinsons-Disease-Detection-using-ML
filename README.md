@@ -1,10 +1,18 @@
 # Parkinson's Disease Prediction Model
-
 This repository contains scripts and data to train a machine learning model to predict Parkinson's disease based on voice recordings.
+
+## What is Parkinson's Disease?
+
+Parkinson's disease is a neurodegenerative disorder that affects movement. It develops gradually, often starting with a barely noticeable tremor in one hand. As the disease progresses, movement becomes more difficult, and tremors may affect other parts of the body. Other symptoms include stiffness or slowing of movement, impaired balance, and speech changes. Parkinson's disease primarily affects dopamine-producing neurons in the brain.
+
+## Predicting Parkinson's Disease Using Audio Samples
+
+Parkinson's disease can affect speech patterns due to changes in vocal cords and muscles involved in speech production. Research has shown that these changes can be detected and analyzed through audio samples using machine learning techniques.
 
 ## Overview
 
-The project aims to use machine learning techniques to classify individuals into those with Parkinson's disease and those without, using features extracted from voice recordings.
+This repository contains scripts and data to train a machine learning model to predict Parkinson's disease based on voice recordings.
+
 
 ## Dataset
 
@@ -57,7 +65,7 @@ The dataset used in this project consists of voice recordings from individuals. 
 
 ### Conclusion
 
-This README provides an overview of the steps involved in training a machine learning model to predict Parkinson's disease using voice recordings. For detailed implementation, refer to the script (``) provided in this repository.
+This README provides an overview of the steps involved in training a machine learning model to predict Parkinson's disease using voice recordings. For detailed implementation, refer to the script (`Project_Parkinson's_Disease_Detection.ipynb`) provided in this repository.
 
 ### Dependencies
 
@@ -70,7 +78,7 @@ Ensure you have Python (version 3.x) installed along with the following librarie
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run `` to predict the Disease presence.
+3. Run `Project_Parkinson's_Disease_Detection.ipynb` to predict the Disease presence.
 
 ### Contributing
 
